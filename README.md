@@ -33,8 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="VueJS" width="40" height="40"/>
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/> -->
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAaBJREFUSEvtVuE5Q0EQnOlAB6gAFYgKUAEd0AEqQAWSCuhAdBAViApIBeMb312+s16SS/Ke/LF/8r67y83u3uzsEhsybggXKwNLOgewXTg+IDmWtAPgrFh/J9mPAa4DPARwWFx4RHIoqQfguVh/Iem1H/YPXM01SbNSvQ/grrhoRPKy81TXel79xok0ewC2AIwBOApHly2Ty/s+l21CcrRUxJJ8yUUC8fc8a4fVCdRlUUb1J8BPAI4bkF5Tukvx8LH1I07q8xZAB045yU+vz2H16gIi6RrAVZA9S+HUugKOab4haWc6B47i8GfAVh6XUbb7qD5dpdricBvIdVAKQVfAFouPAGw2u6/6/W3+Lgm3fjmlconMXiBc0zo+AfBYHP7FD+/N1WpJ8a1rlCs6vDxwityS6THHv+XEMQGQxd9V0E+jT3R2NeBF+Y37kty5Sjk9JZl5MT1e3RZrHJDUVA27zkT8f2vAaep8CACNg95CctVEmXjQ1MnMgV7TENAmsOvZbM7z9FzQ1oBzZlI7dR2b4d/tc5a19sa1z5LPbQz4C6/NCi7TZF4xAAAAAElFTkSuQmCC" title="Django" alt="Django" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/doctrine/doctrine-original-wordmark.svg" title="Doctrine" alt="Doctrine" width="40" height="40"/>
@@ -45,19 +44,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="postman.svg" title="Postman" alt="Postman" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/heroku" title="HeroKu" alt="HeroKu" width="40" height="40"/>
-  <img src="vercel.svg" title="Vercel" alt="Vercel" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="HeroKu" alt="HeroKu" width="40" height="40"/>
+  <img src="brand-vercel.svg" title="Vercel" alt="Vercel" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/kaggle" title="Kaggle" alt="Kaggle" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/> -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/> -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
 
 </div>
