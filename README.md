@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aniket-coder29&label=Profile%20views&color=0e75b6&style=flat" alt="Aniket" /> </p>
 
-- 👨‍🎓 Pursuing **Bachelors of Technology** in Computer Science and Artificial Intelligence from **Netaji Subhas University of Technology**, Delhi.
+- 👨‍🎓 Pursuing **Bachelor of Technology** in **Computer Science and Engineering with Specialization in Artificial Intelligence** from **Netaji Subhas University of Technology**, New Delhi.
 
-- 🌱 Currently learning **Machine Learning**.
+- 🌱 Currently learning **Full Stack Development and Machine Learning**.
 
 <hr>
 
@@ -52,7 +52,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
